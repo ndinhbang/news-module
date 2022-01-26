@@ -1,0 +1,26 @@
+{
+    "name": "ndinhbang/news",
+    "description": "News Module",
+    "license": "MIT",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "ndinhbang",
+            "email": "ndinhbang111@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        },
+        "module-dir": "Modules"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\News\\": ""
+        }
+    }
+}
