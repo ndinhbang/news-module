@@ -1,5 +1,5 @@
 {
-    "name": "ndinhbang/news",
+    "name": "ndinhbang/news-module",
     "description": "News Module",
     "license": "MIT",
     "type": "laravel-module",
