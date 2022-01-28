@@ -1,0 +1,29 @@
+{
+    "name": "ndinhbang/$LOWER_NAME$-module",
+    "description": "$STUDLY_NAME$ Module",
+    "license": "MIT",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "ndinhbang",
+            "email": "ndinhbang111@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        },
+        "module-dir": "Modules"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\$STUDLY_NAME$\\": ""
+        }
+    }
+}
